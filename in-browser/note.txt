@@ -1,0 +1,5 @@
+1-npm install -g @vue/cli
+2-vue
+3- vue create my-project(cli)//name 
+4-cd cli
+5-npm run serve(localhost:8080)
